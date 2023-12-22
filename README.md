@@ -1,6 +1,6 @@
 # django-test-migrations issues [#398](https://github.com/wemake-services/django-test-migrations/issues/398)
 
-This is a demo project to demonstrate the project
+This is a demo project to demonstrate the problem with the plan
 
 - the `main` branch has the old state of the app.
 - the `develop` branch has the new state of the app with a problem with the migrations.
