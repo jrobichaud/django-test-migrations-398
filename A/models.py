@@ -5,3 +5,4 @@ from django.db import models
 
 class A(models.Model):
     a_field = models.CharField(max_length=50)
+    new_field = models.CharField(max_length=50)
